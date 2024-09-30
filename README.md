@@ -58,7 +58,6 @@
 
 #### 
 
-    - Comments are stored in MongoDB, associated with their respective posts and users.
     - Enhanced the admin panel with role-based access control.
     - Added roles to users so only authorized users can access specific admin functionalities.
 
